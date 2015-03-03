@@ -1,2 +1,2 @@
 # boosttryouts
-Getting hand dirty with the boost libraries
+Getting hands dirty with the boost libraries
